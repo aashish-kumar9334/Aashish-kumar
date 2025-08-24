@@ -27,4 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashish-kumar9334&show_icons=true&locale=en&layout=compact" alt="aashish-kumar9334" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-kumar9334&show_icons=true&locale=en" alt="aashish-kumar9334" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashish-kumar9334&show_icons=false&locale=en" alt="aashish-kumar9334" /></p>
